@@ -1,6 +1,6 @@
 # Process Controller
 
-A NodeJS process controller to running OS(Operating Sysyem) processes.
+A NodeJS process controller for running OS(Operating Sysyem) processes.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Also a processes.inf file is created where you can find the process IDs.
 
 ## Authors
 
-* **Kornel Milacski**
+* **Kornel Milacski** (https://github.com/mkornel)
 
 
 ## License
